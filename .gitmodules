@@ -23,3 +23,8 @@
 	url = https://github.com/joelnitta/dwctaxon
 	shallow = true
 	registered = true
+[submodule "roxyglobals"]
+	path = roxyglobals
+	url = https://github.com/anthonynorth/roxyglobals
+	shallow = true
+	registered = false
