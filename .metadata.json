@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "package": "canaper"
+  },
+  {
+    "package": "restez",
+    "oncran": true
+  },
+  {
+    "package": "taxastand"
+  },
+  {
+    "package": "dwctaxon"
+  }
+]

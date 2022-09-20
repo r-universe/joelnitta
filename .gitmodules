@@ -1,5 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/joelnitta/universe
 	shallow = true
 	branch = HEAD
+[submodule "canaper"]
+	path = canaper
+	url = https://github.com/ropensci/canaper
+	shallow = true
+	registered = true
+[submodule "restez"]
+	path = restez
+	url = https://github.com/ropensci/restez
+	shallow = true
+	registered = true
+[submodule "taxastand"]
+	path = taxastand
+	url = https://github.com/joelnitta/taxastand
+	shallow = true
+	registered = true
+[submodule "dwctaxon"]
+	path = dwctaxon
+	url = https://github.com/joelnitta/dwctaxon
+	shallow = true
+	registered = true
