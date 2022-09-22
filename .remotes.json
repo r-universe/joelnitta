@@ -2,12 +2,6 @@
   {
     "package": "roxyglobals",
     "url": "https://github.com/anthonynorth/roxyglobals",
-    "via": ["canaper"],
-    "from": "canaper"
-  },
-  {
-    "package": "roxyglobals",
-    "url": "https://github.com/anthonynorth/roxyglobals",
     "via": ["dwctaxon"],
     "from": "dwctaxon"
   },
