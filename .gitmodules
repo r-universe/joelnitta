@@ -3,16 +3,6 @@
 	url = https://github.com/joelnitta/universe
 	shallow = true
 	branch = HEAD
-[submodule "canaper"]
-	path = canaper
-	url = https://github.com/ropensci/canaper
-	shallow = true
-	registered = true
-[submodule "restez"]
-	path = restez
-	url = https://github.com/ropensci/restez
-	shallow = true
-	registered = true
 [submodule "taxastand"]
 	path = taxastand
 	url = https://github.com/joelnitta/taxastand
