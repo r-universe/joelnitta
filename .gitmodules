@@ -8,6 +8,11 @@
 	url = https://github.com/joelnitta/taxastand
 	shallow = true
 	registered = true
+[submodule "ftolr"]
+	path = ftolr
+	url = https://github.com/fernphy/ftolr
+	shallow = true
+	registered = true
 [submodule "roxyglobals"]
 	path = roxyglobals
 	url = https://github.com/anthonynorth/roxyglobals
