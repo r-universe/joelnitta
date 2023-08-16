@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/joelnitta/universe
 	branch = HEAD
-[submodule "taxastand"]
-	path = taxastand
-	url = https://github.com/joelnitta/taxastand
 [submodule "ftolr"]
 	path = ftolr
 	url = https://github.com/fernphy/ftolr
@@ -12,3 +9,6 @@
 	path = roxyglobals
 	url = https://github.com/anthonynorth/roxyglobals
 	registered = false
+[submodule "taxastand"]
+	path = taxastand
+	url = https://github.com/joelnitta/taxastand
