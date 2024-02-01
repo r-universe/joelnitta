@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/joelnitta/universe
+	url = https://github.com/joelnitta/joelnitta.r-universe.dev
 	branch = HEAD
 [submodule "ftolr"]
 	path = ftolr
