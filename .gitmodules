@@ -5,9 +5,25 @@
 [submodule "ftolr"]
 	path = ftolr
 	url = https://github.com/fernphy/ftolr
+[submodule "ggcheck"]
+	path = ggcheck
+	url = https://github.com/rstudio/ggcheck
+	registered = false
+[submodule "gradethis"]
+	path = gradethis
+	url = https://github.com/rstudio/gradethis
+	registered = false
 [submodule "joholearnr"]
 	path = joholearnr
 	url = https://github.com/joelnitta/joholearnr
+[submodule "learnr"]
+	path = learnr
+	url = https://github.com/rstudio/learnr
+	registered = false
+[submodule "learnrhash"]
+	path = learnrhash
+	url = https://github.com/rundel/learnrhash
+	registered = false
 [submodule "roxyglobals"]
 	path = roxyglobals
 	url = https://github.com/anthonynorth/roxyglobals

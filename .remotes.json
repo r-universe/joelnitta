@@ -1,5 +1,29 @@
 [
   {
+    "package": "ggcheck",
+    "url": "https://github.com/rstudio/ggcheck",
+    "via": ["joholearnr", "gradethis"],
+    "from": "joholearnr"
+  },
+  {
+    "package": "gradethis",
+    "url": "https://github.com/rstudio/gradethis",
+    "via": ["joholearnr"],
+    "from": "joholearnr"
+  },
+  {
+    "package": "learnr",
+    "url": "https://github.com/rstudio/learnr",
+    "via": ["joholearnr", "gradethis"],
+    "from": "joholearnr"
+  },
+  {
+    "package": "learnrhash",
+    "url": "https://github.com/rundel/learnrhash",
+    "via": ["joholearnr"],
+    "from": "joholearnr"
+  },
+  {
     "package": "roxyglobals",
     "url": "https://github.com/anthonynorth/roxyglobals",
     "via": ["taxastand"],
